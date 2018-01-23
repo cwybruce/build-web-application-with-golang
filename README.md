@@ -1,19 +1,8 @@
-# Multiple Language Versions
-
-* [Deutsch](de/preface.md)
-* [English](en/preface.md)
-* [Español](es/preface.md)
-* [Français](fr/preface.md)
-* [Português - Brasil](pt-br/preface.md)
-* [Русский](ru/preface.md)
-* [Türkçe](tr/preface.md)
-* [বাংলা](bn/preface.md)
-* [日本語](ja/preface.md)
-* [中文](zh/preface.md)
+> 本开源书 forked from [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)，作者为 [astaxie](https://github.com/astaxie)，欢迎大家 star 原作者的 [repo](https://github.com/astaxie/build-web-application-with-golang)，以便获得最新更新，谢谢！
 
 # Donate
 
-AliPay: <img src="zh/images/alipay.png" alt="alipay" width="100" height="100">
+AliPay: <img src="images/alipay.png" alt="alipay" width="100" height="100">
 
 English Donate:[donate](http://beego.me/donate)
 
